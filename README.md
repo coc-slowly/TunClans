@@ -8,7 +8,7 @@
 ------------ | ------------- | ------------
 慢slowly | 11 | 冠军三  
 快quickly | 6 | 冠军三  
-天天部落战 | 15 | 水晶三
+[!image](https://api-assets.clashofclans.com/badges/70/w96nCsSN1Xyv63GJxNW4iUPN-tc6DJ1U0ApnUWqO5Qw.png)天天部落战 | 15 | 水晶三
 杀戮帝都 | 17 | 水晶三  
 梅开二度 | 4 | 黄金二   
 吞吞的小号们 | 3 | 水晶二 
